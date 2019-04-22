@@ -1,0 +1,1 @@
+"""Support for controlling RGB strips with GPIO pins of a Raspberry Pi."""

@@ -1,0 +1,19 @@
+{
+
+  "domain": "rpi_gpio_rgb_strip",
+
+  "name": "Rpi gpio rgb strip",
+
+  "documentation": "",
+
+  "requirements": [
+
+    "RPi.GPIO==0.6.5"
+
+  ],
+
+  "dependencies": [],
+
+  "codeowners": []
+
+}
